@@ -9,6 +9,6 @@ responses revealed that, when reporting the strengths and weaknesses of Canvas, 
 instructors across disciplines reported common strengths, the weaknesses they identified 
 varied according to the features they used for their specific disciplines. Our findings lead us 
 to recommend routine evaluation and assessment of instructors’ needs related to LMS. We 
-suggest that, together with general LMS training, campuses design and offer disciplinespecific LMS training to ensure instructors’ needs for LMS based on their academic fields
+suggest that, together with general LMS training, campuses design and offer discipline specific LMS training to ensure instructors’ needs for LMS based on their academic fields
 are addressed. Also, we propose that universities should design and offer basic and advanced
 LMS training programs for instructors with different levels of LMS experience.
